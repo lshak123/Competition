@@ -31,6 +31,6 @@
 ## 느낀점
 public 0.90684(5위), private 0.90276(7위)으로 높은 성과를 이뤘으나, 
 Train Data의 결측치를 처리할 때 Test Data의 통계값을 이용하여 Data Leakage로 인해 실격이 되었다.
-상당히 아쉬웠지만 이 대회를 통해 Data Leakage에 대해 더욱 꼼꼼히 신경쓰게됐고, 다시는 이런 실수를 하지 않도록 철저하게 검토할것입니다.
+상당히 아쉬웠지만 이 대회를 통해 Data Leakage에 대해 더욱 꼼꼼히 신경쓰게됐고, 다시는 이런 실수를 하지 않도록 철저하게 검토할것입니다.<br/><br/>
 ![image](https://user-images.githubusercontent.com/97331900/216994989-52635eec-04f5-4fbe-9b55-9ab2ecafd339.png)
 
